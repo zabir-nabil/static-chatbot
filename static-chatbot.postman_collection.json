@@ -19,10 +19,28 @@
 		{
 			"name": "bot_chat",
 			"request": {
-				"method": "GET",
+				"method": "POST",
 				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id_\" : \"nabil\",\r\n    \"msg\": \"Hi, this is realtime bot. How can I help you?\"\r\n\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
 				"url": {
-					"raw": ""
+					"raw": "http://localhost:8000/chat/user",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"chat",
+						"user"
+					]
 				}
 			},
 			"response": []

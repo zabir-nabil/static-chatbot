@@ -1,0 +1,10 @@
+{
+    "start": ["b_hi"],
+    "b_hi": ["u_hi_res1"],
+    "u_hi_res1": ["b_comp_info", "b_buy_sell"],
+    "b_comp_info": ["u_thanks"],
+    "u_thanks": ["b_welcome"],
+    "b_buy_sell": ["u_buy_sell"],
+    "u_buy_sell": ["b_buy", "b_sell"],
+    "b_buy": ["u_thanks"]
+}

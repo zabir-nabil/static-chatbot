@@ -1,0 +1,10 @@
+{
+    "b_hi" : {"text": "Hi, this is realtime bot. How can I help you?"},
+    "b_hi2" : {"text":"Hello, welcome to realtime. How can I assist you?"},
+    "b_comp_info": {"text":"Our company is ..."},
+    "b_buy_sell": {"text":"Are you a buyer or a seller?"},
+    "b_welcome": {"text": "You are welcome."},
+    "b_buy": {"text": "Awesome. If you want to buy go to this page ..."},
+    "b_sell": {"text": "Awesome. If you want to sell go to this page ..."}
+
+}

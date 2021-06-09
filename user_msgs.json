@@ -1,0 +1,5 @@
+{
+    "u_hi_res1": {"buttons": ["I want to know about the company.",  "I want to buy/sell a property."]},
+    "u_buy_sell" : {"buttons": ["I am a buyer", "I am a seller"]},
+    "u_thanks": {"buttons": ["Thank you"]}
+}
